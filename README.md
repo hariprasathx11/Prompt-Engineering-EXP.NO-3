@@ -44,4 +44,7 @@ Missing Word Prompting:
 
 OUTPUT:
 
+[EXP 3 PROMPT.pdf](https://github.com/user-attachments/files/25965176/EXP.3.PROMPT.pdf)
+
+
 RESULT: 
